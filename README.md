@@ -1,6 +1,3 @@
 # print
 
 ## test
-
-hi
-hi
